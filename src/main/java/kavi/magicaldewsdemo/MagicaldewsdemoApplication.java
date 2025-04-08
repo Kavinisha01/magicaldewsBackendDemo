@@ -3,7 +3,7 @@ package kavi.magicaldewsdemo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplicati
+@SpringBootApplication
 public class MagicaldewsdemoApplication {
 
 	public static void main(String[] args) {
